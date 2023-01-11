@@ -20,6 +20,3 @@ Here are the user's windows :
 
 
 
-Here is the Server window which enable the connection between two user:
-
-![image](https://user-images.githubusercontent.com/121736818/210158940-db44edc9-531d-4ed0-aaae-69a8b211e5e0.png)
